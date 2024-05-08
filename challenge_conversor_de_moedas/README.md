@@ -1,3 +1,3 @@
-<h2>Desafio Conversor de Moedas - Alura & Oracle One</h2>
+<h2>Desafio Challengue: Conversor de Moedas - Alura & One Oracle</h2>
 
-Este desafio tem como objetivo, criar um programa no qual você consiga realizar conversões de moedas através de uma API, utilizando JAVA.
+Este desafio tem como objetivo criar um programa que faça conversões de moedas atraves de uma API, utilizando a liguagem de programação JAVA.
